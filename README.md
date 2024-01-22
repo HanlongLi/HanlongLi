@@ -16,7 +16,7 @@ Still Under Construction.
 
 ### 📫 Contact Me
 
-Let's connect! You can find me on:
+Let's connect! Send me emails for any CS ideas or projects!
 
 - [Email](mailto:miles.lee23333@gmail.com)
 
