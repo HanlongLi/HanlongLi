@@ -1,16 +1,32 @@
-### Hi there 👋
+### Hi there, I'm Hanlong! 👋
 
-<!--
-**HanlongLi/HanlongLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a CS major at Georgia Tech🐝. Actively seeking entry-level / internship job opportunities in Software Development 🇺🇸.
 
-Here are some ideas to get you started:
+- 🌱 I'm currently learning Computer Vision and Backend Development.
+- 👯 I'm open to collaborations and new projects.
+- 💬 Let's connect and chat about tech, coding, or anything else!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies & Tools
+
+Java, JavaScript, HTML, CSS, Python, Git, MATLAB
+
+### 🚀 Projects
+
+Still Under Construction.
+
+### 📫 Contact Me
+
+Let's connect! You can find me on:
+
+- [Email](mailto:miles.lee23333@gmail.com)
+
+Feel free to reach out if you want to collaborate on a project or just chat about tech. 😊
+
+### 🌟 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hanlongli&show_icons=true&count_private=true)
+
+<!-- Optional: Add additional sections like "Skills," "Certifications," "Languages," etc., as needed. -->
+
+<!-- Optional: You can add custom badges, icons, or additional information based on your preferences. -->
+
