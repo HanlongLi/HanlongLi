@@ -22,9 +22,6 @@ Let's connect! Send me emails for any CS ideas or projects!
 
 Feel free to reach out if you want to collaborate on a project or just chat about tech. 😊
 
-### 🌟 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hanlongli&show_icons=true&count_private=true)
 
 <!-- Optional: Add additional sections like "Skills," "Certifications," "Languages," etc., as needed. -->
 
